@@ -219,7 +219,7 @@ body {
 .place-card-image {
   width: 100%;
   height: 250px;
-  object-fit: fill;
+  object-fit: cover;
   border-top-left-radius: 8px;
   border-top-right-radius: 8px;
 }
